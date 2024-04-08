@@ -1,0 +1,25 @@
+{
+  "stations": [
+    {
+      "id": "kingcrossstation",
+      "name": "King's Cross Station",
+      "description": "King's Cross railway station is a now defunct passenger railway terminus in the London Borough of Camden, on the edge of Central London.",
+      "images": ["KingCrossStation.png", "KingCrossStation_Drone.png"],
+      "slotNumbers": 10
+    },
+    {
+      "id": "palaceofwestminster",
+      "name": "Palace of Westminster",
+      "description": "The Palace of Westminster is located in the City of Westminster borough of London. It is home to the United Kingdom's Parliament.",
+      "images": ["PalaceOfWestminster.png", "PalaceOfWestminster_Drone.png"],
+      "slotNumbers": 10
+    },
+    {
+      "id": "camdenmarket",
+      "name": "Camden Market",
+      "description": "Camden Market is an open-air marketplace that features several shops, kiosks, street vendors, and an underground Bare Knuckle Boxing arena.",
+      "images": ["CamdenMarket.png", "CamdenMarket_Drone.png"],
+      "slotNumbers": 10
+    }
+  ]
+}
